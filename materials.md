@@ -26,6 +26,7 @@
 - [Fireship](https://www.youtube.com/@Fireship)
 - [Interview Pen](https://www.youtube.com/@interviewpen/featured)
 - [ColinGalen](https://www.youtube.com/@ColinGalen)
+- [Sentdex](https://www.youtube.com/@sentdex/featured)
   
 ## Interview Prep:
 - [NeetCode](https://neetcode.io/) Nice courses and free LeetCode videos.
